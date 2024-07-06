@@ -69,7 +69,7 @@ const Features = () => {
                                     <p className="feature-text g_text">
                                         iPhone 15 Pro is {' '}
                                         <span className="text-white">
-                                            the first iPhone to feature an aerospace-grade titanium design,
+                                            the first iPhone to feature an aerospace-grade titanium design,{' '}
                                         </span>
                                         using the same alloy that spacecrafts use for missions to Mars.
                                     </p>
