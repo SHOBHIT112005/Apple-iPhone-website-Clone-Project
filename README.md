@@ -2,7 +2,7 @@
 
 This project is a clone of the Apple iPhone website created using HTML, CSS, JavaScript, React.js, GSAP, and Three.js. It aims to replicate the sleek design and smooth animations of the original website.
 
-Check out the Apple iPhone Website Clone [here](https://appleiphonewebsiteclone-shobhit112005s-projects.vercel.app/).
+Check out the Apple iPhone Website Clone <a href="https://appleiphonewebsiteclone-shobhit112005s-projects.vercel.app/" target="_blank">here</a>.
 
 ## Features
 
